@@ -1,5 +1,5 @@
 # CSE215
 
-CSE215 Spring 2018 Homework
+CSE215 Homework, Spring 2018
 
 Coding in SML.
