@@ -1,2 +1,5 @@
 # CSE215
-Coding with SML
+
+CSE215 Spring 2018 Homework
+
+Coding in SML.
